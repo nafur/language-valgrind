@@ -1,0 +1,9 @@
+{
+	"name": "language-valgrind",
+	"version": "0.0.1",
+	"description": "Syntax highlighting for valgrind",
+	"engines": {
+		"atom": "*",
+		"node": "*"
+	}
+}
