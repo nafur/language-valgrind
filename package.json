@@ -1,7 +1,9 @@
 {
 	"name": "language-valgrind",
-	"version": "0.0.1",
-	"description": "Syntax highlighting for valgrind",
+	"version": "0.0.0",
+	"description": "Syntax highlighting for valgrind output",
+	"repository": "https://github.com/nafur/language-valgrind",
+	"license": "MIT",
 	"engines": {
 		"atom": "*",
 		"node": "*"
